@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Building+games+with+Godot+4;Designing+systems+with+GDScript;Developing+with+AI-assisted+workflows;Turning+ideas+into+playable+systems" alt="Development focus: Godot 4, GDScript, AI-assisted workflows and playable systems.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=460&height=45&lines=Building+games+with+Godot+4;Designing+systems+with+GDScript;Developing+with+AI-assisted+workflows;Turning+ideas+into+playable+systems" alt="Development focus: Godot 4, GDScript, AI-assisted workflows and playable systems.">
 </p>
 
 ## ◈ About
