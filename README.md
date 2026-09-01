@@ -18,31 +18,52 @@
 
 I turn ideas into functional projects through rapid prototyping, testing and continuous refinement — combining human direction with AI-assisted development.
 
-## Featured Projects
+## ◈ Featured Projects
 
-### Golem's Mandate
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A narrative village-management game developed with Godot 4.
+### ◈ Golem's Mandate
 
-The project explores procedural characters, relationships, village management, construction systems, economy, narrative events and long-term consequences.
+A narrative village-management game developed with **Godot 4**, built around procedural characters, relationships, economy, construction and long-term consequences.
 
-**Current stable version:** `v3.11.7`
+<p>
+  <img src="https://img.shields.io/badge/Godot_4-8B5CF6?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4">
+  <img src="https://img.shields.io/badge/GDScript-8B5CF6?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript">
+  <img src="https://img.shields.io/badge/Narrative-8B5CF6?style=flat-square" alt="Narrative">
+  <img src="https://img.shields.io/badge/Management-8B5CF6?style=flat-square" alt="Management">
+</p>
 
-[View Golem's Mandate](https://github.com/Dobermannkaiser/golems-mandate)
+**Stable:** `v3.11.7`
 
-### Godot Game Development Skills
+<a href="https://github.com/Dobermannkaiser/golems-mandate">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT_→-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Golem's Mandate">
+</a>
 
-An open collection of Portuguese-language skills designed to help AI agents work with Godot 4 development.
+</td>
+<td width="50%" valign="top">
 
-The collection currently covers:
+### ◈ Godot Game Development Skills
 
-- game programming and architecture;
-- UX and UI development;
-- testing and validation;
-- Codex and Godot MCP workflows;
-- safer AI-assisted development practices.
+An open collection of Portuguese-language skills for AI agents working with **Godot 4**, covering development, UX/UI, validation and MCP workflows.
 
-[View Godot Game Development Skills](https://github.com/Dobermannkaiser/godot-game-development-skills)
+<p>
+  <img src="https://img.shields.io/badge/Godot_4-8B5CF6?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4">
+  <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square" alt="AI Agents">
+  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square" alt="MCP">
+  <img src="https://img.shields.io/badge/Open_Source-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Open Source">
+</p>
+
+**Focus:** reusable AI-assisted Godot workflows
+
+<a href="https://github.com/Dobermannkaiser/godot-game-development-skills">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT_→-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Godot Game Development Skills">
+</a>
+
+</td>
+</tr>
+</table>
 
 ## How I Build
 
