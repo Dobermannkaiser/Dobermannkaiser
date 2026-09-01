@@ -12,15 +12,11 @@
   <img src="https://img.shields.io/badge/GDScript-8B5CF6?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
 </p>
 
-# Dobermannkaiser
+## ◈ About
 
-### AI-Assisted Game Developer • Vibe Coder • Godot
+**AI-Assisted Game Developer** focused on building games, experimental systems and practical tools with **Godot 4**.
 
-**◈ Imagine freely. Build relentlessly.**
-
-I build games, experimental systems and practical tools with Godot and AI-assisted development.
-
-My work focuses on turning ideas into functional projects through rapid iteration, testing and continuous refinement.
+I turn ideas into functional projects through rapid prototyping, testing and continuous refinement — combining human direction with AI-assisted development.
 
 ## Featured Projects
 
