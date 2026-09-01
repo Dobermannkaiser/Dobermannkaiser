@@ -111,3 +111,7 @@ I'm currently focused on:
 <p align="center">
   <b>◈ Imagine freely. Build relentlessly.</b>
 </p>
+
+<p align="center">
+  <sub>Built with Godot • Developed with AI-assisted workflows • Open Source</sub>
+</p>
