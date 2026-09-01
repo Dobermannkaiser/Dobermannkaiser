@@ -81,19 +81,11 @@ An open collection of Portuguese-language skills for AI agents working with **Go
 
 ## ◈ How I Build
 
-My development process combines:
+**Idea → Prototype → Test → Refine → Ship**
 
-- **Godot 4**
-- **GDScript**
-- **AI-assisted development**
-- **Vibe coding**
-- **rapid prototyping**
-- **testing and iterative refinement**
-- **documentation and reusable workflows**
+I build with **Godot 4** and **GDScript**, using AI throughout the development workflow for prototyping, implementation, analysis, testing and documentation.
 
-I use artificial intelligence extensively throughout development, including programming, analysis, documentation, testing and iteration.
-
-Rather than presenting AI-generated work as manually authored code, I prefer to be transparent about the process and focus on the quality, usefulness and reproducibility of the final result.
+AI is part of the process, while project direction, decisions, validation and continuous refinement shape the final result.
 
 ---
 
