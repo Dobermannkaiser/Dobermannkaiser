@@ -2,6 +2,10 @@
   <img src="./assets/header-dark.png" alt="Dobermannkaiser — AI-Assisted Game Developer" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Building+games+with+Godot+4;Designing+systems+with+GDScript;Developing+with+AI-assisted+workflows;Turning+ideas+into+playable+systems" alt="Typing animation">
+</p>
+
 # Dobermannkaiser
 
 ### AI-Assisted Game Developer • Vibe Coder • Godot
