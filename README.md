@@ -10,8 +10,6 @@
 
 **AI-Assisted Game Developer** focused on building games, experimental systems and practical tools with **Godot 4**.
 
-I turn ideas into functional projects through rapid prototyping, testing and continuous refinement — combining human direction with AI-assisted development.
-
 ---
 
 ## ◈ Featured Projects
@@ -98,8 +96,7 @@ I'm currently focused on:
 
 - developing and refining **Golem's Mandate**;
 - improving AI-assisted workflows for **Godot**;
-- creating reusable skills and documentation for AI agents;
-- exploring how human direction and artificial intelligence can work together to build complete projects.
+- creating reusable skills and documentation for AI agents.
 
 ---
 
