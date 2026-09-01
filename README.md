@@ -22,9 +22,9 @@ I turn ideas into functional projects through rapid prototyping, testing and con
 
 ## ◈ Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### ◈ Golem's Mandate
 
@@ -43,8 +43,27 @@ A narrative village-management game developed with **Godot 4**, built around pro
   <img src="https://img.shields.io/badge/VIEW_PROJECT_→-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Golem's Mandate">
 </a>
 
+<br><br>
+
+<p align="center">
+  <a href="https://github.com/Dobermannkaiser/golems-mandate">
+    <img src="./assets/golems-mandate-gameplay.png" alt="Golem's Mandate gameplay showing the village management interface." width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>Golem's Mandate</b> • Gameplay • Godot 4</sub>
+</p>
+
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td valign="top">
 
 ### ◈ Godot Game Development Skills
 
@@ -66,16 +85,6 @@ An open collection of Portuguese-language skills for AI agents working with **Go
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/Dobermannkaiser/golems-mandate">
-    <img src="./assets/golems-mandate-gameplay.png" alt="Golem's Mandate gameplay showing the village management interface." width="100%">
-  </a>
-</p>
-
-<p align="center">
-  <sub><b>Golem's Mandate</b> • Gameplay • Godot 4</sub>
-</p>
 
 ---
 
