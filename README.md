@@ -1,9 +1,9 @@
-<p align="center">
+<h1 align="center">
   <img src="./assets/header-dark.png" alt="Dobermannkaiser — AI-Assisted Game Developer" width="100%">
-</p>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Building+games+with+Godot+4;Designing+systems+with+GDScript;Developing+with+AI-assisted+workflows;Turning+ideas+into+playable+systems" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Building+games+with+Godot+4;Designing+systems+with+GDScript;Developing+with+AI-assisted+workflows;Turning+ideas+into+playable+systems" alt="Development focus: Godot 4, GDScript, AI-assisted workflows and playable systems.">
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ An open collection of Portuguese-language skills for AI agents working with **Go
 
 <p align="center">
   <a href="https://github.com/Dobermannkaiser/golems-mandate">
-    <img src="./assets/golems-mandate-gameplay.png" alt="Golem's Mandate gameplay" width="100%">
+    <img src="./assets/golems-mandate-gameplay.png" alt="Golem's Mandate gameplay showing the village management interface." width="100%">
   </a>
 </p>
 
