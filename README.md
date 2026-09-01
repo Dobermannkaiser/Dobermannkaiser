@@ -65,6 +65,16 @@ An open collection of Portuguese-language skills for AI agents working with **Go
 </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/Dobermannkaiser/golems-mandate">
+    <img src="./assets/golems-mandate-gameplay.png" alt="Golem's Mandate gameplay" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>Golem's Mandate</b> • Gameplay • Godot 4</sub>
+</p>
+
 ## How I Build
 
 My development process combines:
