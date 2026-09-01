@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/header-dark.png" alt="Dobermannkaiser — AI-Assisted Game Developer" width="100%">
+</p>
+
 # Dobermannkaiser
 
 ### AI-Assisted Game Developer • Vibe Coder • Godot
