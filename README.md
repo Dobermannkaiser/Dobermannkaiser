@@ -18,6 +18,8 @@
 
 I turn ideas into functional projects through rapid prototyping, testing and continuous refinement — combining human direction with AI-assisted development.
 
+---
+
 ## ◈ Featured Projects
 
 <table>
@@ -75,7 +77,9 @@ An open collection of Portuguese-language skills for AI agents working with **Go
   <sub><b>Golem's Mandate</b> • Gameplay • Godot 4</sub>
 </p>
 
-## How I Build
+---
+
+## ◈ How I Build
 
 My development process combines:
 
@@ -91,7 +95,9 @@ I use artificial intelligence extensively throughout development, including prog
 
 Rather than presenting AI-generated work as manually authored code, I prefer to be transparent about the process and focus on the quality, usefulness and reproducibility of the final result.
 
-## Current Focus
+---
+
+## ◈ Current Focus
 
 I'm currently focused on:
 
@@ -102,4 +108,6 @@ I'm currently focused on:
 
 ---
 
-**◈ Imagine freely. Build relentlessly.**
+<p align="center">
+  <b>◈ Imagine freely. Build relentlessly.</b>
+</p>
