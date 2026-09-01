@@ -46,7 +46,7 @@ A narrative village-management game developed with **Godot 4**, built around pro
 </p>
 
 <p align="center">
-  <sub><b>Golem's Mandate</b> • Gameplay • Godot 4</sub>
+  <sub>Gameplay • Stable v3.11.7</sub>
 </p>
 
 </td>
