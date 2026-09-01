@@ -92,8 +92,6 @@ AI is part of the process, while project direction, decisions, validation and co
 
 ## ◈ Current Focus
 
-I'm currently focused on:
-
 - developing and refining **Golem's Mandate**;
 - improving AI-assisted workflows for **Godot**;
 - creating reusable skills and documentation for AI agents.
@@ -102,8 +100,4 @@ I'm currently focused on:
 
 <p align="center">
   <b>◈ Imagine freely. Build relentlessly.</b>
-</p>
-
-<p align="center">
-  <sub>Built with Godot • Developed with AI-assisted workflows • Open Source</sub>
 </p>
