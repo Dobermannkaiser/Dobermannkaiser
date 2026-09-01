@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=Building+games+with+Godot+4;Designing+systems+with+GDScript;Developing+with+AI-assisted+workflows;Turning+ideas+into+playable+systems" alt="Development focus: Godot 4, GDScript, AI-assisted workflows and playable systems.">
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,git,github&theme=dark" alt="Godot, Git and GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GDScript-8B5CF6?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
-</p>
-
 ## ◈ About
 
 **AI-Assisted Game Developer** focused on building games, experimental systems and practical tools with **Godot 4**.
